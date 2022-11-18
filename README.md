@@ -77,6 +77,20 @@ Here are a few pointers on how to get started —
  - This article is for the rest, who are just starting and have no clue which organisation to even pick.
  - First off, pick a domain and language of your preference (ideally, something popular like python or javascript so you’re open to most organisations).       - Once done with that, shortlist 3 - 4 organisations maximum. Once done with that, you have to pick a project rather than an Organisation
 
+
+To choose an organization, head over to the official archive of GSoC Organizations which lists out all the organizations that participated in a specific year.
+
+==> *The factors that will help you in choosing an organization are :*
+
+- If you are interested in the field the organization is working on (astronomy, history, etc etc).
+- Pick the organization that works on the tech stack the same as yours (flutter, javascript, etc etc).
+- You can pick the organization on the basis of the tech stack that you are thinking to work on in your future.
+
+--> You must also have to consider some other factors like
+ - Size of the Organization.
+ - No. of students Participating this year.
+ - No. of seats in the last GSoC.
+
 ![alttext](https://miro.medium.com/max/1400/1*HBVZ1qL8qdIKbZMsSQmDNg.gif)
 
 - Every organisation has a ‘View Ideas’ Section (see above) in their description. Make use of it. 
