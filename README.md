@@ -161,22 +161,6 @@ Keep Emailing all the project mentors you've selected back and forth, and once y
    - [ ] Send it over the organisation's mailing list
    - [ ] Ask for advice on their chat group (IRC, Gitter, Slack, etc)
    - [ ] Submit the Proposal
-
-
---> Asavari Ambavane's Proposal Format
- - Introduction
- - Biographical Information
- - Project Objectives and Expected Results
- - Why < organization name >?
- - Deliverables and Implementation Plan
- - Code Affected
- - Related Pre-Proposal Work
- - Schedule of Deliverables 
-  - April 20 — May 20 (Pre-Selection) 
-  - May 20 — June 12 (Community Bonding Period) 
-  - June 13 — July 25 (Phase I) 
-  - July 25 — September 12 (Phase II) 
-  - September 12 — November 21 (For Extended Timelines)
  - Post GSoC Plans
 
 After drafting Your proposals, Sent them to all the mentors to review. After 3–4 iterations, it was time to submit the proposals.
