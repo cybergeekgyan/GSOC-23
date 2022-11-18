@@ -41,15 +41,6 @@ If it’s no….then don’t worry you can give some time to yourself learning a
 **Done with most of the above things???…Now let’s see the GSoC journey and how to apply?**
 
 
-## Start Your Journey With GSoC
-
-   - Select Organizations:
-   - Start Contributing:
-   - Keep Contributing Until the Organizations are Announced:
-   - Make Your Project Proposal:
-   - Keep Contributing and Wait For the Result:
-   
-   
 ## Benefits of GSoC
 *You will find yourself a more confident developer after completing the journey of GSoC.* 
 **Below are some benefits we would like to mention:**
@@ -65,12 +56,32 @@ If it’s no….then don’t worry you can give some time to yourself learning a
   * Definitely tag of Google or GSoC gives you international credibility and helps everywhere from attending the conferences to boosting up your resume.
 
 
+## Start Your Journey With GSoC
+
+   - Select Organizations:
+   - Start Contributing:
+   - Keep Contributing Until the Organizations are Announced:
+   - Make Your Project Proposal:
+   - Keep Contributing and Wait For the Result:
+   
+  
 ## How to Get Started?
 Here are a few pointers on how to get started —
 
  - If you are sure the organization you want to contribute to will most likely participate in GSoC that year, you can start early and contact their mentors without waiting.
  - Doing thorough research on organizations that offer projects under your domain of interest in advance helps speed up the process once the list is out.
 
+### Picking an Organisation
+
+ - If you have one in mind and have been contributing for a while now, you’re not the one who should be reading this. 
+ - This article is for the rest, who are just starting and have no clue which organisation to even pick.
+ - First off, pick a domain and language of your preference (ideally, something popular like python or javascript so you’re open to most organisations).       - Once done with that, shortlist 3 - 4 organisations maximum. Once done with that, you have to pick a project rather than an Organisation
+
+![alttext](https://miro.medium.com/max/1400/1*HBVZ1qL8qdIKbZMsSQmDNg.gif)
+
+- Every organisation has a ‘View Ideas’ Section (see above) in their description. Make use of it. 
+- Sure everyone loves new ideas, but the organisation might not have people to mentor that particular tech or it might be too outlandish. 
+- So unless it’s just that great an idea, try to pick an idea from their list. After all, they know best what they need.
 
 
 ### Choosing the Right Project
