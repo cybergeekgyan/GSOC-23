@@ -1,3 +1,6 @@
+
+- https://forums.librehealth.io/t/librehealth-accepted-into-google-summer-of-code-2022/4393
+- https://chat.librehealth.io/channel/gsoc
 ## What we’re looking for in a successful candidate
 
  - Can you independently research your problems?
